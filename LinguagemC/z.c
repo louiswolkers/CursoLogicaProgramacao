@@ -11,10 +11,6 @@ int main(){
     }else{
         printf("numero impar: %d", numero);
     }
-
-
-
-
 }
 
 
